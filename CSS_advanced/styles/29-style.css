@@ -119,7 +119,7 @@ body {
 
 .nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
-    width: 1rem;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
